@@ -1,0 +1,9 @@
+name: djot
+version: 0.1.0
+
+authors:
+  - monomonedula <valh@tuta.io>
+
+crystal: 1.0.0
+
+license: MIT
